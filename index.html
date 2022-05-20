@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pragati+Narrow&display=swap" rel="stylesheet">
+
+    <title>Formulario</title>
+</head>
+<!-- 
+<script>
+    function handleChange(checkbox) {
+        if (checkbox.checked == true) {
+            document.location.href = "singup.html"
+            // document.getElementById("submit").removeAttribute("disabled");
+            // location.href="../singup.html"
+            // window.open("../singup.html", "_self");
+        } else {
+            document.getElementById("submit").setAttribute("disabled", "disabled");
+        }
+    }
+    
+</script> -->
+
+<body>
+
+    <div id="container">
+
+        <div class="box">
+        </div>
+
+        <div class="box">
+            <!-- toggle -->
+            <div class="toggle">
+                <div class="button-cover">
+                    <div class="button r" id="button">
+                        <input type="checkbox" class="checkbox" onchange='handleChange(this);'>
+                        <div class="knobs"></div>
+                        <div class="bg"></div>
+                    </div>
+                </div>
+            </div>
+
+
+            <h1 class="tittle-login">Hello!
+                <img class="emoji-hand" src="imgs/hand.gif" alt="emoji-hand">
+            </h1>
+
+            <hr>
+            <div class="txt">
+                <p>We are pleased to have you here again</p>
+                <p>Have a <span>nice day</span></p>
+            </div>
+
+
+            <!-- toggle -->
+            <form action="">
+
+                <label for="email" class="label-animation">
+                    <input id="email" type="email" placeholder=" " autocomplete="off">
+                    <span class="animation">Email</span>
+                </label>
+
+                <br>
+
+                <label for="password" class="label-animation">
+                    <input id="password" type="password" placeholder=" " autocomplete="off">
+                    <span class="animation">Password</span>
+
+                </label>
+
+                <br>
+
+                <div class="remember-password">
+
+                    <div>
+                        <input id="box-select" type="checkbox">
+                        <label for="box-select">Remember me</label>
+                    </div>
+
+                    <br>
+
+                    <a href="#">Forgot your password</a>
+                </div>
+
+                <br>
+
+                <button type="button" class="login">Login</button>
+
+
+            </form>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
