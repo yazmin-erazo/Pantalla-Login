@@ -9,7 +9,8 @@
 <br/>
 
 ### Proyecto personal
-Realicé diseño y desarrollo con fines académicos, esta en proceso la implementación de comportamientos y respuesta adaptativa para diferentes dispositivos.
+Realicé diseño y desarrollo con fines académicos.
+Esta en proceso la implementación de comportamientos y respuesta adaptativa para diferentes dispositivos.
 
 Para este proyecto fue realizado en:
 * Figma
