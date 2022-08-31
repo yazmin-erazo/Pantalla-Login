@@ -2,13 +2,11 @@
 
 ![Pantalla-login](https://user-images.githubusercontent.com/54871751/187768019-a66404fc-3bce-47ad-b1fd-af8d81d994a5.png)
 
-## [Ver en vivo 🚀](https://y-erazo.github.io/Pantalla-Login/)
-<br/>
+### [Ver en vivo 🚀](https://y-erazo.github.io/Pantalla-Login/)
 
 <br/>
-<br/>
 
-### Proyecto personal
+## Proyecto personal
 Realicé diseño y desarrollo con fines académicos.
 Esta en proceso la implementación de comportamientos y respuesta adaptativa para diferentes dispositivos.
 
