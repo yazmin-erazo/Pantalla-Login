@@ -10,7 +10,7 @@
 Realicé diseño y desarrollo con fines académicos.
 Esta en proceso la implementación de comportamientos y respuesta adaptativa para diferentes dispositivos.
 
-Para este proyecto fue realizado en:
+Realizado en:
 * Figma
 * Html
 * CSS
