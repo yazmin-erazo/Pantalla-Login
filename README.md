@@ -2,7 +2,7 @@
 
 ![Pantalla-login](https://user-images.githubusercontent.com/54871751/187768019-a66404fc-3bce-47ad-b1fd-af8d81d994a5.png)
 
-### [Ver en vivo 🚀](https://y-erazo.github.io/Pantalla-Login/)
+### [Ver en vivo 🚀](https://yazmin-erazo.github.io/Pantalla-Login/)
 
 <br/>
 
@@ -19,7 +19,7 @@ Realizado en:
 <br/>
 
 ---
-Con ❤️ por [Yazmin-Erazo](https://github.com/y-erazo) 😊
+Con ❤️ por [Yazmin-Erazo](https://github.com/yazmin-erazo) 😊
 
 <br/>
 <br/>
